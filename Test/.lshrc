@@ -1,0 +1,4 @@
+input = "src"
+output = "dist"
+include_types = true
+mode = "nonstrict"
